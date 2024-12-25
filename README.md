@@ -1,0 +1,2 @@
+# IoT-Project-Pengembangan-Sistem-Smart-and-Healthy-Home-Berbasis-Internet-of-Things-IoT-
+Perkembangan teknologi IoT memungkinkan penciptaan rumah cerdas dan sehat. Penelitian ini mengembangkan sistem Smart and Healthy Home yang memantau kondisi lingkungan dengan sensor (cahaya, kelembapan, suhu, hujan, detektor api) dan mengontrol otomatis menggunakan aktuator (pompa, lampu), meningkatkan efisiensi dan kenyamanan.
